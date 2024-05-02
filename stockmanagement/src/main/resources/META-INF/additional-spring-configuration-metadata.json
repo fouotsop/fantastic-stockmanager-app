@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.roles.admin",
+    "type": "java.lang.String",
+    "description": "admin role name"
+  },
+  {
+    "name": "app.roles.aps",
+    "type": "java.lang.String",
+    "description": "aps role name"
+  },
+  {
+    "description": "gs role name",
+    "name": "app.roles.gs",
+    "type": "java.lang.String"
+  }
+]}
